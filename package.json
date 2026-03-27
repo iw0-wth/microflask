@@ -1,0 +1,25 @@
+{
+
+"name": "microflask",
+
+"version": "0.0.20260324",
+
+"urls": [
+
+["microflask.py", "microflask.py"],
+
+["microflask_async.py", "microflask_async.py"]
+
+],
+
+"deps":[],
+
+"description":"MicroFlask是一个为提升flask项目迁移和web界面开发的速度的类flask的web框架，以开放和可扩展为宗旨，兼容micropython和cpython并主要为micropython服务-MicroFlask is a Flask-like web framework designed to facilitate the migration of Flask-based projects and accelerate development. With a focus on openness and extensibility, it provides compatibility with both MicroPython and CPython while prioritizing support for MicroPython environments.",
+
+"author": "iw0",
+
+"license": "MIT",
+
+"keywords": ["micropython", "web", "flask", "framework","框架","microflask_async","microflask"]
+
+}
